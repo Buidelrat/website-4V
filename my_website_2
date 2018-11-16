@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>my website 2</title>
+</head>
+<body>
+<h1>SURPRISE!</h1>
+<p>Hier zie je wat ik leuk vindt.</p>
+<ul>
+       <li>Ik hou van turnen</li>
+       <li>boulderen</li>
+       <li>lekker eten</li>
+       <li>afspreken met vrienden</li>
+       <li>en slapen</li>
+      </ul>
+      <p>Nu weet je al wat meer van mij.</p>
+      <p>Leuk dat je hebt gekeken naar mijn hobbies</p>
+      <p>Fijne dag verder nog!</p>
+</body>
+</html>
